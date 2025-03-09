@@ -29,7 +29,7 @@ lesson material is in <material> vocab.txt, grammar_topics.md </material>
 progress file to be updated is in <progress> german_progress.json </progress>
 with an example in example_progress.json
 
-please load my progress and generate a lesson for today
+let me know that you understand then we will go from there
 ```
 
 
