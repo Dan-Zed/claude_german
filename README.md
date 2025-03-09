@@ -20,14 +20,16 @@ A lightweight spaced repetition system for German vocabulary and grammar practic
 To begin practicing, start a new conversation with Claude and use the following prompt:
 
 ```
-I'd like to practice German using our system in /Users/daniel.more/Documents/code_projects/german/practice_system/. Please load my progress and generate a lesson for today.
+lets practice German using our system in /path/to/project.
+
+instructions are in <instructions> intructions.md, system_implementation.md </instructions>
+lesson material is in <material> vocab.txt, grammar_topics.md </material>
+progress file to be updated is in <progress> german_progress.json </progress>
+with an example in example_progress.json
+
+please load my progress and generate a lesson for today
 ```
 
-For a more focused session, you can specify a particular area:
-
-```
-I'd like to practice German focusing on modal verbs. Please use our system in /Users/daniel.more/Documents/code_projects/german/practice_system/.
-```
 
 ## Customization
 
