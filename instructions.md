@@ -35,7 +35,7 @@ Each practice session follows this flow:
 5. Rate your comfort level with each item
 6. Save your updated progress
 
-Importantly: do not update the progress json until the user decides to end the session and move on to a new topic
+Importantly: do not update the progress json until the user decides to end the session and move on to a new topic, and don't be too optimistic with grading
 
 ## Advanced Options
 

@@ -49,6 +49,111 @@
       "comfort": 3,
       "last_practiced": "2025-03-09",
       "notes": "to put on (clothes)"
+    },
+    "sich freuen auf": {
+      "comfort": 3,
+      "last_practiced": "2025-03-09",
+      "notes": "to look forward to (takes accusative)"
+    },
+    "warten auf": {
+      "comfort": 2,
+      "last_practiced": "2025-03-09",
+      "notes": "to wait for (takes accusative)"
+    },
+    "denken an": {
+      "comfort": 2,
+      "last_practiced": "2025-03-09",
+      "notes": "to think of/about (takes accusative)"
+    },
+    "sich bewerben um": {
+      "comfort": 2,
+      "last_practiced": "2025-03-09",
+      "notes": "to apply for (takes accusative)"
+    },
+    "sich kümmern um": {
+      "comfort": 3,
+      "last_practiced": "2025-03-09",
+      "notes": "to take care of (takes accusative)"
+    },
+    "teilnehmen an": {
+      "comfort": 3,
+      "last_practiced": "2025-03-09",
+      "notes": "to participate in (takes dative)"
+    },
+    "zweifeln an": {
+      "comfort": 3,
+      "last_practiced": "2025-03-09",
+      "notes": "to doubt (takes dative)"
+    },
+    "träumen von": {
+      "comfort": 3,
+      "last_practiced": "2025-03-09",
+      "notes": "to dream of/about (takes dative)"
+    },
+    "abhängen von": {
+      "comfort": 3,
+      "last_practiced": "2025-03-09",
+      "notes": "to depend on (takes dative)"
+    },
+    "sich ausruhen": {
+      "comfort": 3,
+      "last_practiced": "2025-03-09",
+      "notes": "to rest (oneself)"
+    },
+    "sich beeilen": {
+      "comfort": 3,
+      "last_practiced": "2025-03-09",
+      "notes": "to hurry (oneself)"
+    },
+    "sich beschweren": {
+      "comfort": 2,
+      "last_practiced": "2025-03-09",
+      "notes": "to complain"
+    },
+    "sich erinnern an": {
+      "comfort": 3,
+      "last_practiced": "2025-03-09",
+      "notes": "to remember (takes accusative)"
+    },
+    "sich entschuldigen": {
+      "comfort": 3,
+      "last_practiced": "2025-03-09",
+      "notes": "to apologize"
+    },
+    "sich ärgern über": {
+      "comfort": 2,
+      "last_practiced": "2025-03-09",
+      "notes": "to be annoyed about (takes accusative)"
+    },
+    "sich freuen": {
+      "comfort": 3,
+      "last_practiced": "2025-03-09",
+      "notes": "to be happy"
+    },
+    "sich wundern": {
+      "comfort": 3,
+      "last_practiced": "2025-03-09",
+      "notes": "to wonder/be surprised"
+    },
+    "sich interessieren für": {
+      "comfort": 3,
+      "last_practiced": "2025-03-09",
+      "notes": "to be interested in (takes accusative)"
+    },
+    "sich fühlen": {
+      "comfort": 2,
+      "last_practiced": "2025-03-09",
+      "notes": "to feel"
+    },
+    "sich vorbereiten": {
+      "comfort": 3,
+      "last_practiced": "2025-03-09",
+      "notes": "to prepare (oneself)"
+    },
+    "sich entspannen": {
+      "comfort": 2,
+      "last_practiced": "2025-03-09",
+      "notes": "to relax"
     }
   },
   "grammar": {
@@ -56,6 +161,16 @@
       "comfort": 3,
       "last_practiced": "2025-03-09",
       "notes": "Good understanding of basic separable verb rules in main clauses and questions, need more practice with them in subordinate clauses and perfect tense"
+    },
+    "Verbs with prepositions": {
+      "comfort": 2,
+      "last_practiced": "2025-03-09",
+      "notes": "Good grasp of common verb-preposition combinations, some difficulty with correct articles in accusative and dative cases"
+    },
+    "Reflexive verbs in accusative": {
+      "comfort": 3,
+      "last_practiced": "2025-03-09",
+      "notes": "Good understanding of reflexive pronouns and basic reflexive verb usage. Strong with simple sentences. Need more practice with questions, negations, and when reflexive verbs are also separable."
     }
   },
   "session_history": [
@@ -64,6 +179,18 @@
       "focus": "Separable verbs (trennbare Verben)",
       "words": ["abwarten", "aufgeben", "anrufen", "mitbringen", "vorstellen", "ankommen", "aufstehen", "einkaufen", "einladen", "anziehen"],
       "notes": "First session, good understanding of separable verbs in main clauses, needs more practice with them in subordinate clauses"
+    },
+    {
+      "date": "2025-03-09",
+      "focus": "Verbs with prepositions",
+      "words": ["sich freuen auf", "warten auf", "denken an", "sich bewerben um", "sich kümmern um", "teilnehmen an", "zweifeln an", "träumen von", "abhängen von"],
+      "notes": "Good understanding of verb-preposition combinations, needs more practice with correct articles in the appropriate cases (especially accusative)"
+    },
+    {
+      "date": "2025-03-09",
+      "focus": "Reflexive verbs in accusative",
+      "words": ["sich ausruhen", "sich beeilen", "sich beschweren", "sich erinnern an", "sich entschuldigen", "sich ärgern über", "sich freuen", "sich wundern", "sich interessieren für", "sich fühlen", "sich vorbereiten", "sich entspannen"],
+      "notes": "Good performance with reflexive pronouns. Strong understanding of basic reflexive verbs. Some minor errors with conjugation (freut vs. freuet). Recognizes when reflexive verbs are also separable."
     }
   ]
 }
