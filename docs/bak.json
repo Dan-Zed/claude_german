@@ -1,0 +1,101 @@
+{
+  "vocabulary": {
+    "abwarten": {
+      "comfort": 2,
+      "last_practiced": "2025-03-08",
+      "notes": "to wait - needs practice with preposition usage"
+    },
+    "beachten": {
+      "comfort": 2,
+      "last_practiced": "2025-03-08",
+      "notes": "to notice, to pay attention to - takes direct accusative object, no 'auf'"
+    },
+    "aufgeben": {
+      "comfort": 4,
+      "last_practiced": "2025-03-08",
+      "notes": "to give up - good understanding of separable verb usage"
+    },
+    "entscheiden": {
+      "comfort": 2,
+      "last_practiced": "2025-03-08",
+      "notes": "to decide - review reflexive form with 'für' + accusative"
+    },
+    "vorschlagen": {
+      "comfort": 3,
+      "last_practiced": "2025-03-08",
+      "notes": "to suggest - minor issues with modal perfect conjugation"
+    },
+    "sich interessieren für": {
+      "comfort": 3,
+      "last_practiced": "2025-03-08",
+      "notes": "to be interested in - good usage with correct preposition"
+    },
+    "warten auf": {
+      "comfort": 4,
+      "last_practiced": "2025-03-08",
+      "notes": "to wait for - great understanding and usage"
+    },
+    "denken an": {
+      "comfort": 3,
+      "last_practiced": "2025-03-08",
+      "notes": "to think about - needs practice with first person conjugation"
+    },
+    "sich freuen auf": {
+      "comfort": 3,
+      "last_practiced": "2025-03-08",
+      "notes": "to look forward to - good structure but needs practice with possessive articles"
+    },
+    "teilnehmen an": {
+      "comfort": 1,
+      "last_practiced": "2025-03-08",
+      "notes": "to participate in - multiple issues with separable verb structure and dative case"
+    }
+  },
+  "grammar": {
+    "Modal verbs with perfect tense": {
+      "comfort": 3,
+      "last_practiced": "2025-03-08",
+      "notes": "Good understanding of double infinitive structure, minor issues with 'dürfen' spelling and 3rd person conjugation"
+    },
+    "Two-way prepositions with dative/accusative": {
+      "comfort": 3,
+      "last_practiced": "2025-03-08",
+      "notes": "Good understanding of the wo/wohin distinction with two-way prepositions"
+    },
+    "Verb-preposition combinations": {
+      "comfort": 3,
+      "last_practiced": "2025-03-08",
+      "notes": "Mixed results - strong with some combinations, needs practice with separable verbs and case requirements"
+    },
+    "Present tense conjugation (regular verbs)": {
+      "comfort": 3,
+      "last_practiced": "2025-03-08",
+      "notes": "Occasional issues with first-person endings"
+    },
+    "Separable verbs (trennbare Verben)": {
+      "comfort": 2,
+      "last_practiced": "2025-03-08",
+      "notes": "Needs practice with word order and conjugation of separable verbs"
+    }
+  },
+  "session_history": [
+    {
+      "date": "2025-03-08",
+      "focus": "Initial assessment",
+      "words": ["abwarten", "beachten", "aufgeben", "entscheiden", "vorschlagen"],
+      "notes": "First session with randomly selected vocabulary and grammar topics"
+    },
+    {
+      "date": "2025-03-08",
+      "focus": "Modal verbs with perfect tense, Two-way prepositions",
+      "words": ["abwarten", "beachten", "aufgeben", "entscheiden", "vorschlagen"],
+      "notes": "Strong with two-way prepositions, good with double infinitive structure. Issues with verb-preposition combinations."
+    },
+    {
+      "date": "2025-03-08",
+      "focus": "Verb-preposition combinations",
+      "words": ["sich interessieren für", "warten auf", "denken an", "sich freuen auf", "teilnehmen an"],
+      "notes": "Good with basic combinations, needs work on separable verbs and article/case systems"
+    }
+  ]
+}

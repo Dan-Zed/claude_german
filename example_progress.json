@@ -1,0 +1,83 @@
+{
+  "vocabulary": {
+    "abdecken": {
+      "comfort": 3,
+      "last_practiced": "2025-03-05",
+      "notes": "to cover"
+    },
+    "abwarten": {
+      "comfort": 4,
+      "last_practiced": "2025-03-05",
+      "notes": "to wait"
+    },
+    "achtsamkeit": {
+      "comfort": 2,
+      "last_practiced": "2025-03-01",
+      "notes": "mindfulness"
+    },
+    "aufgeben": {
+      "comfort": 3,
+      "last_practiced": "2025-03-03",
+      "notes": "to give up"
+    },
+    "beachten": {
+      "comfort": 1,
+      "last_practiced": "2025-03-05",
+      "notes": "to notice, to observe"
+    },
+    "bedeutende": {
+      "comfort": 2,
+      "last_practiced": "2025-02-28",
+      "notes": "significant"
+    }
+  },
+  "grammar": {
+    "Present tense conjugation (regular verbs)": {
+      "comfort": 4,
+      "last_practiced": "2025-03-04",
+      "notes": "Strong with regular patterns, still occasionally forget -e ending with 'ich'"
+    },
+    "Accusative case usage": {
+      "comfort": 2,
+      "last_practiced": "2025-03-01",
+      "notes": "Still confused about when to use accusative vs. dative"
+    },
+    "Modal verb conjugation": {
+      "comfort": 3,
+      "last_practiced": "2025-03-05",
+      "notes": "Comfortable with können and wollen, less so with dürfen"
+    }
+  },
+  "session_history": [
+    {
+      "date": "2025-02-28",
+      "focus": "Present tense conjugation",
+      "words": ["bedeutende", "achtsamkeit"],
+      "notes": "First session, established baseline"
+    },
+    {
+      "date": "2025-03-01",
+      "focus": "Accusative case usage",
+      "words": ["achtsamkeit", "bedeutende"],
+      "notes": "Struggled with accusative articles"
+    },
+    {
+      "date": "2025-03-03",
+      "focus": "Present tense with regular verbs",
+      "words": ["aufgeben"],
+      "notes": "Practiced forming sentences with regular verbs"
+    },
+    {
+      "date": "2025-03-04",
+      "focus": "Present tense review",
+      "words": [],
+      "notes": "Quick review session on verb conjugation"
+    },
+    {
+      "date": "2025-03-05",
+      "focus": "Modal verbs",
+      "words": ["abdecken", "abwarten", "beachten"],
+      "notes": "Introduced modal verbs, practiced with new vocabulary"
+    }
+  ]
+}
