@@ -8,6 +8,8 @@ A lightweight spaced repetition system for German vocabulary and grammar practic
 - **instructions.md**: User guide explaining how to use the system
 - **system_implementation.md**: Technical details for Claude
 - **example_progress.json**: Example of what your progress file will look like after use
+- **vocab.txt**
+- **grammar_topics.md**
 
 ## Getting Started
 
